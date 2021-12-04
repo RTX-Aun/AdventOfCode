@@ -22,5 +22,21 @@
             }
             return array;
         }
+        
+        public static void PerformActionEachLine(string path, Action<string> action)
+        {
+            try
+            {
+                var lines = System.IO.File.ReadAllLines(path);
+                foreach (var line in lines)
+                {
+                    action(line);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+        }
     }
 }

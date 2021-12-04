@@ -1,0 +1,18 @@
+E:\Projects\AdventOfCode\AdventOfCode\bin\Release\net6.0\AdventOfCode.exe
+E:\Projects\AdventOfCode\AdventOfCode\bin\Release\net6.0\Day 1\Input.txt
+E:\Projects\AdventOfCode\AdventOfCode\bin\Release\net6.0\Day 2\Input.txt
+E:\Projects\AdventOfCode\AdventOfCode\bin\Release\net6.0\Day 3\Input.txt
+E:\Projects\AdventOfCode\AdventOfCode\bin\Release\net6.0\AdventOfCode.deps.json
+E:\Projects\AdventOfCode\AdventOfCode\bin\Release\net6.0\AdventOfCode.runtimeconfig.json
+E:\Projects\AdventOfCode\AdventOfCode\bin\Release\net6.0\AdventOfCode.dll
+E:\Projects\AdventOfCode\AdventOfCode\bin\Release\net6.0\ref\AdventOfCode.dll
+E:\Projects\AdventOfCode\AdventOfCode\bin\Release\net6.0\AdventOfCode.pdb
+E:\Projects\AdventOfCode\AdventOfCode\obj\Release\net6.0\AdventOfCode.csproj.AssemblyReference.cache
+E:\Projects\AdventOfCode\AdventOfCode\obj\Release\net6.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AdventOfCode\AdventOfCode\obj\Release\net6.0\AdventOfCode.AssemblyInfoInputs.cache
+E:\Projects\AdventOfCode\AdventOfCode\obj\Release\net6.0\AdventOfCode.AssemblyInfo.cs
+E:\Projects\AdventOfCode\AdventOfCode\obj\Release\net6.0\AdventOfCode.csproj.CoreCompileInputs.cache
+E:\Projects\AdventOfCode\AdventOfCode\obj\Release\net6.0\AdventOfCode.dll
+E:\Projects\AdventOfCode\AdventOfCode\obj\Release\net6.0\ref\AdventOfCode.dll
+E:\Projects\AdventOfCode\AdventOfCode\obj\Release\net6.0\AdventOfCode.pdb
+E:\Projects\AdventOfCode\AdventOfCode\obj\Release\net6.0\AdventOfCode.genruntimeconfig.cache

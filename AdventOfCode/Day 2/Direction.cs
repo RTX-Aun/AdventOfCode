@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode.Day_1
+﻿namespace AdventOfCode
 {
     public enum Direction
     {

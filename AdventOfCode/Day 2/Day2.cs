@@ -1,9 +1,7 @@
-﻿namespace AdventOfCode.Day_1
+﻿namespace AdventOfCode
 {
     using System;
-    using System.Linq;
-    using AdventOfCode.Utilities.File;
-    using File = AdventOfCode.Utilities.File.File;
+    using File = Utilities.File.File;
 
     public class Day2 : IChallenge
     {

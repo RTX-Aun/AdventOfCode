@@ -2,7 +2,6 @@
 
 namespace AdventOfCode
 {
-    using AdventOfCode.Day_1;
 
     class Program
     {
@@ -12,6 +11,8 @@ namespace AdventOfCode
             day1.Run();
             var day2 = new Day2();
             day2.Run();
+            var day3 = new Day3();
+            day3.Run();
             Console.ReadLine();
         }
     }
