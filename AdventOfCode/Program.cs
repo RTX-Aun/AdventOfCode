@@ -2,18 +2,25 @@
 
 namespace AdventOfCode
 {
-
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            var day1 = new Day1();
-            day1.Run();
-            var day2 = new Day2();
-            day2.Run();
-            var day3 = new Day3();
-            day3.Run();
+            RunChallenge(1, new Day1());
+            RunChallenge(2, new Day2());
+            RunChallenge(3, new Day3());
+            RunChallenge(4, new Day4());
             Console.ReadLine();
+        }
+
+        private static void RunChallenge(int day, IChallenge challenge)
+        {
+            Console.WriteLine();
+            Console.WriteLine("*----------*");
+            Console.WriteLine($"Day {day}");
+            Console.WriteLine("*----------*");
+            Console.WriteLine();
+            challenge.Run();
         }
     }
 }
