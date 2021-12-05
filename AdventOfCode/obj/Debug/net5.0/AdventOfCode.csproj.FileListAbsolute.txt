@@ -55,3 +55,5 @@ D:\Projects\AdventOfCode\AdventOfCode\obj\Debug\net5.0\AdventOfCode.dll
 D:\Projects\AdventOfCode\AdventOfCode\obj\Debug\net5.0\ref\AdventOfCode.dll
 D:\Projects\AdventOfCode\AdventOfCode\obj\Debug\net5.0\AdventOfCode.pdb
 D:\Projects\AdventOfCode\AdventOfCode\obj\Debug\net5.0\AdventOfCode.genruntimeconfig.cache
+D:\Projects\AdventOfCode\AdventOfCode\bin\Debug\net5.0\Day 5\Input.txt
+D:\Projects\AdventOfCode\AdventOfCode\bin\Debug\net5.0\Day 5\ExampleInput.txt

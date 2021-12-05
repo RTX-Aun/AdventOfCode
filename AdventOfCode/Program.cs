@@ -10,6 +10,7 @@ namespace AdventOfCode
             RunChallenge(2, new Day2());
             RunChallenge(3, new Day3());
             RunChallenge(4, new Day4());
+            RunChallenge(5, new Day5());
             Console.ReadLine();
         }
 

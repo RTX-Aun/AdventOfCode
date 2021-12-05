@@ -1,7 +1,7 @@
 ﻿namespace AdventOfCode
 {
     using System;
-    using File = Utilities.File.File;
+    using AdventOfCode.Utilities;
 
     public class Day2 : IChallenge
     {

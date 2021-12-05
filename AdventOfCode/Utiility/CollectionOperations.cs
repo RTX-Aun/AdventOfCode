@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode.Utilities.File
+﻿namespace AdventOfCode.Utilities
 {
     using System;
     using System.Collections;

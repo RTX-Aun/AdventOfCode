@@ -2,8 +2,7 @@
 {
     using System;
     using System.Linq;
-    using AdventOfCode.Utilities.File;
-    using File = AdventOfCode.Utilities.File.File;
+    using AdventOfCode.Utilities;
 
     public class Day3 : IChallenge
     {
