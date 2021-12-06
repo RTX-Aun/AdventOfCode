@@ -11,6 +11,7 @@ namespace AdventOfCode
             RunChallenge(3, new Day3());
             RunChallenge(4, new Day4());
             RunChallenge(5, new Day5());
+            RunChallenge(6, new Day6());
             Console.ReadLine();
         }
 
